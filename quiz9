@@ -1,0 +1,15 @@
+Soru 1:
+
+Programın çıktısı nedir ?
+
+"Canberk" < "Oğuz"
+
+Cevap 1: True
+
+Soru 2:
+
+Programın çıktısı nedir ?
+
+not (2.14 > 3.49 or ( 2 != 2 and "Murat" == "Murat"))
+
+Cevap 2: True
