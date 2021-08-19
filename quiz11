@@ -1,0 +1,26 @@
+Soru 1:
+
+Programın çıktısı nedir ?
+
+  "yt" in "Python"
+
+Cevap 1:
+
+True
+
+Soru 2:
+
+Programın çıktısı nedir ?
+
+    liste = [2,1,10,2,23,1,56,3]
+     
+    total = 0
+    for i in liste:
+        if (not (i % 2 == 0)):
+            total += i
+     
+    print(total)
+
+Cevap 2:
+
+28
